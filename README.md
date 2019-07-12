@@ -3,7 +3,7 @@
 						
 
 TASK
-> Task 1
-Task 1 berisi file-file Web Perhitungan Bangun Datar & Bangun Ruang, dengan Script HTML, JS, CSS.
-> Task 2
-Task 2 berisi file Aplikasi Perhitungan Luas Bangun Datar menggunakan bahasa pemrograman Ruby.
+
+> Task 1 berisi file-file Web Perhitungan Bangun Datar & Bangun Ruang, dengan Script HTML, JS, CSS.
+
+> Task 2 berisi file Aplikasi Perhitungan Luas Bangun Datar menggunakan bahasa pemrograman Ruby.
