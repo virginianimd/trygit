@@ -1,5 +1,5 @@
-				Ini adalah Task untuk Melaksanakan Kerja Praktek di UrRemote 
-						8 Juli 2019 - 5 Oktober 2019
+			Ini adalah Task untuk Melaksanakan Kerja Praktek di UrRemote 
+					8 Juli 2019 - 5 Oktober 2019
 						
 
 TASK
