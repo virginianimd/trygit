@@ -1,0 +1,39 @@
+<html>  
+<head>  
+    <title>Hitung Volume & Luas Alas Kusu</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>  
+    <body bgcolor="white"> 
+        <img src="img/kubus.png">
+        <form name="page" width="50">
+            <h3 align="center" >Menghitung Volume & Luas Permukaan Kubus</h3>
+                <table border="1" cellpadding="2" cellspacing="2" align="center" width="30%">
+                        <tr>
+                            <td align="center">Sisi Kubus</td>
+                        </tr>
+                        <tr>
+                            <td align="center"> <input type="text" size="10" id="ipt_sisi" placeholder="Masukan Sisi"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">Volume Kubus</td>
+                        </tr>
+                        <tr>
+                            <td align="center"> <input type="text" size="10" id="opt_volume" disabled></td>
+                        </tr>
+                        <tr>
+                            <td align="center">Luas Permukaan Kubus</td>
+                        </tr>
+                        <tr>
+                            <td align="center"> <input type="text" size="10" id="opt_luas" disabled></td>
+                        </tr>
+                        <tr>   
+                            <td colspan="4" align="center">
+                                <button type="button" class="btn btn-primary" onclick="carivolume()">Hitung</button>
+                                <button type="reset" class="btn btn-primary">Ulang</button>
+                        </td>
+                        </tr>
+                </table>
+        </form>
+     <script type="text/javascript" src="js/kubus.js"></script>
+    </body>
+</html>  

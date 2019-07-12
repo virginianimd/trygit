@@ -1,0 +1,24 @@
+table,tr,td{
+    background-color: rgb(140, 224, 217) ;
+    font-family: century gothic;
+    color: rgb(151, 65, 140);
+    border: 1px solid rgb(0, 0, 0);
+    padding: 5px;
+    border-collapse: collapse;
+    }
+    .posisi{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    left: 0;
+    right: 0;
+    top: 100px;
+    bottom: 0;
+    }
+    body{
+    background-color: darkslategray;
+    background-repeat: no-repeat;
+    background-size: 1400px auto;
+    }

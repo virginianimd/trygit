@@ -1,0 +1,40 @@
+<html>  
+<head>  
+    <title>Hitung Persegi</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+    <body bgcolor="white"> 
+        <img src="img/persegi.png">
+            <form name="page" width="50">
+            <h3 align="center" >Menghitung Luas & Keliling Persegi/Bujur Sangkar</h3>
+                <table border="1" cellpadding="2" cellspacing="2" align="center" width="30%">
+                    <tr>
+                        <td align="center">Sisi Persegi</td>
+                    </tr>
+                    <tr>
+                        <td align="center"> <input type="text" size="10" id="ipt_sisi" placeholder="Masukan Sisi"></td>
+                    </tr>
+                    <tr>
+                        <td align="center">Luas Persegi</td>
+                    </tr>
+                    <tr>
+                        <td align="center"> <input type="text" size="10" id="opt_luas" disabled></td>
+                    </tr>
+                    <tr>
+                        <td align="center">Keliling Persegi</td>
+                    </tr>
+                    <tr>
+                        <td align="center"> <input type="text" size="10" id="opt_keliling" disabled></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" align="center">
+                            <button type="button" class="btn btn-primary" onclick="hitung()">Hitung</button>
+                            <button type="reset" class="btn btn-primary">Ulang</button>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        <script type="text/javascript" src="js/persegi.js"></script>                   
+    </body>
+</html>  
